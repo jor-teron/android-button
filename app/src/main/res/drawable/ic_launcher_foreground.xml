@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Center Power Icon Ring -->
+        <path
+            android:pathData="M44.5,41.2 A15,15 0 1,0 63.5,41.2"
+            android:strokeWidth="4"
+            android:strokeColor="#00E5FF"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <!-- Center Power Stem -->
+        <path
+            android:pathData="M54,34 L54,49"
+            android:strokeWidth="4"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <!-- Outer Left Shake Energy Wave -->
+        <path
+            android:pathData="M32,42 C29,48 29,60 32,66"
+            android:strokeWidth="3.2"
+            android:strokeColor="#38BDF8"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M24,37 C19,46 19,62 24,71"
+            android:strokeWidth="2.8"
+            android:strokeColor="#0284C7"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <!-- Outer Right Shake Energy Wave -->
+        <path
+            android:pathData="M76,42 C79,48 79,60 76,66"
+            android:strokeWidth="3.2"
+            android:strokeColor="#38BDF8"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M84,37 C89,46 89,62 84,71"
+            android:strokeWidth="2.8"
+            android:strokeColor="#0284C7"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <!-- Volume Up indicator (+) on top right -->
+        <path
+            android:pathData="M78,28 L78,34 M75,31 L81,31"
+            android:strokeWidth="2.5"
+            android:strokeColor="#38BDF8"
+            android:strokeLineCap="round" />
+        <!-- Volume Down indicator (-) on bottom right -->
+        <path
+            android:pathData="M75,77 L81,77"
+            android:strokeWidth="2.5"
+            android:strokeColor="#38BDF8"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

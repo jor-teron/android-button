@@ -1,0 +1,6 @@
+{
+  "name": "ShakeWake",
+  "description": "Wake up your screen with a shake when your power button is damaged, with virtual volume keys and customizable sensitivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
